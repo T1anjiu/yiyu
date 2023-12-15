@@ -6,7 +6,7 @@
 <p align="center">
     <a href="https://github.com/willphp/yiyu"><img src="https://img.shields.io/badge/PHP-7.4.3~8.2.x-blue?style=for-the-badge&color=%238d4bbb" alt="PHP7.4.3~8.2.x"></a>
     <a href="https://github.com/willphp/yiyu"><img src="https://img.shields.io/badge/STABLE-4.7.1-blue?style=for-the-badge&color=%230aa344" alt="Latest Stable Version"></a>
-    <a href="hhttps://github.com/willphp/yiyu"><img src="https://img.shields.io/badge/UNSTABLE-4.7.x--DEV-blue?style=for-the-badge&color=%23ff0097" alt="Latest Unstable Version"></a>
+    <a href="https://github.com/willphp/yiyu"><img src="https://img.shields.io/badge/UNSTABLE-4.7.x--DEV-blue?style=for-the-badge&color=%23ff0097" alt="Latest Unstable Version"></a>
     <a href="https://github.com/willphp/yiyu"><img src="https://img.shields.io/badge/SIZE-124KB-blue?style=for-the-badge&color=%23f0c239" alt="Download Size"></a>
     <a href="https://raw.githubusercontent.com/lty628/aidigu/master/LICENSE"><img src="https://img.shields.io/badge/LICENSE-Apache--2.0-blue?style=for-the-badge&color=%23FF0000" alt="Apache-2.0 License"></a>
 </p>
